@@ -1,0 +1,11 @@
+streamlit
+newspaper3k
+requests
+beautifulsoup4
+openai
+chromadb
+langchain
+tiktoken
+sentence-transformers
+torch
+lxml_html_clean
