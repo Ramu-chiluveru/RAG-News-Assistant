@@ -8,4 +8,5 @@ langchain
 tiktoken
 sentence-transformers
 torch
-lxml_html_clean
+lxml-html-clean
+pysqlite3-binary

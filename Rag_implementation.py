@@ -9,6 +9,8 @@ from newspaper import Article
 from dotenv import load_dotenv
 import tiktoken
 
+import pysqlite3
+sys.modules["sqlite3"] = pysqlite3
 import chromadb
 from chromadb.utils import embedding_functions
 from chromadb.config import Settings
